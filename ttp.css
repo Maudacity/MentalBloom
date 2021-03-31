@@ -6,7 +6,7 @@
   }
 }
 body {
-	width: 100%;
+	
 	background-color: #F5BD60 ;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -17,7 +17,7 @@ body {
 }
 .main {margin-top: 8%;
 height: 500px;
-width: 100%;
+width: 120%;
 margin-bottom: 8%;
 }
 
